@@ -9,7 +9,7 @@ import http.client
 import json
 
 # Jooble API Configuration
-JOOBLE_API_KEY = "b0ca463a-d6e4-40f8-828c-a3b8cbdd8bca"  # Replace with your actual API key
+JOOBLE_API_KEY = ""  # Replace with your actual API key
 JOOBLE_HOST = "jooble.org"
 
 def manage_job_cards_file():
