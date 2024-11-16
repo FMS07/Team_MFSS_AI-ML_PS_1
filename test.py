@@ -4,7 +4,7 @@ import PyPDF2
 from groq import Groq
 
 # Set your API key for the Groq client here
-API_KEY = "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"  # Replace with your actual Groq API key
+API_KEY = ""  # Replace with your actual Groq API key
 
 def extract_text_from_pdf(pdf_file):
     """
