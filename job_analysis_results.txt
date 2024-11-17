@@ -1,0 +1,111 @@
+Here is the analysis of the resume against the job listings:
+
+**Computer Science**
+
+1. **Computer Science Skills Trainer**
+	* Category: Good Fit
+	* Strengths: Python, Java, Machine Learning, Deep Learning
+	* Areas of Improvement: None mentioned in the job description
+	* Reason for Categorization: The job requires a strong understanding of computer science concepts, which the candidate has demonstrated through their projects and skills.
+2. **Trainee Software Engineer**
+	* Category: Good Fit
+	* Strengths: B. Tech in Computer Science, Programming skills in Python, C, and Java
+	* Areas of Improvement: None mentioned in the job description
+	* Reason for Categorization: The job requires a degree in Computer Science or a related field, which the candidate has.
+3. **Software Engineer, University Graduate, 2025**
+	* Category: Must Apply
+	* Strengths: B. Tech in Computer Science, Programming skills in Python, C, and Java, experience with Unix/Linux
+	* Areas of Improvement: Distributed systems, machine learning (although the candidate has experience with deep learning)
+	* Reason for Categorization: The job is a great fit for the candidate's skills and experience, and is a prestigious company.
+
+**Healthcare**
+
+1. **MNC COMPANY IS HIRING -DAY SHIFT**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires a background in commerce or a related field, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+2. **Accounts Assistant**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in accounting and analytical skills, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+3. **Data Entry - Fresher**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in data entry and analytical skills, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+
+**Robotics**
+
+1. **Robotics Engineer**
+	* Category: Good Fit
+	* Strengths: Minors in Robotics and Industrial Automation, experience with Robot Operating Systems (ROS)
+	* Areas of Improvement: The job requires a background in software development, electronics, and robotics, which the candidate partially has.
+	* Reason for Categorization: The job is related to the candidate's field of study and skills, and they have some relevant experience.
+2. **Robotics Trainer**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in robotics competitions and teaching, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+3. **Robotics Communicator Intern**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in science education and communication, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+
+**Automation**
+
+1. **MNC COMPANY IS HIRING -DAY SHIFT**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires a background in commerce or a related field, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+2. **Accounts Assistant**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in accounting and analytical skills, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+3. **Data Entry - Fresher**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in data entry and analytical skills, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+
+**Education**
+
+1. **Academic Coordinator**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in education and curriculum leadership, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+2. **Early Years Teacher**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in teaching and childcare, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+3. **Education Research Associate- Qualitative Research**
+	* Category: Doesn't Align
+	* Strengths: None relevant to the job description
+	* Areas of Improvement: The job requires experience in education research and qualitative analysis, which the candidate does not have.
+	* Reason for Categorization: The job is not related to the candidate's field of study or skills.
+
+**Software Development**
+
+1. **Software Development Engineer**
+	* Category: Good Fit
+	* Strengths: B. Tech in Computer Science, Programming skills in Python, C, and Java
+	* Areas of Improvement: SAP Governance Risk and Compliance (SAP GRC)
+	* Reason for Categorization: The job requires a degree in Computer Science or a related field, and the candidate has relevant programming skills.
+2. **Graduate Trainee | Software Development**
+	* Category: Good Fit
+	* Strengths: B. Tech in Computer Science, Programming skills in Python, C, and Java
+	* Areas of Improvement: None mentioned in the job description
+	* Reason for Categorization: The job requires a degree in Computer Science or a related field, and the candidate has relevant programming skills.
+3. **Software Development Instructor (Python)**
+	* Category: Must Apply
+	* Strengths: B. Tech in Computer Science, Programming skills in Python, experience with teaching and training
+	* Areas of Improvement: None mentioned in the job description
+	* Reason for Categorization: The job is a great fit for the candidate's skills and experience, and is an opportunity to teach and train others.
+
+Note: The categorization is based on the relevance of the candidate's skills and experience to the job requirements, and is subjective. The candidate should review the job descriptions and requirements carefully before applying.
