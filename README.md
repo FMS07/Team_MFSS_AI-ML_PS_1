@@ -84,4 +84,27 @@ The project focuses on building an **AI-powered Job Relevance Analyzer** to brid
 - In case of driver compatibility issues on Hugging Face, a localhost demo video has been provided.  
 
 ---
- 
+
+## Example workflow pics
+
+### Step 1
+![Step 1](step1.png)
+
+### Step 2
+![Step 2](step2.png)
+
+### Step 3
+![Step 3](step3.png)
+
+### Step 4
+![Step 4](step4.png)
+
+---
+
+## Project Demo of Jooble api hosted on cloud (Hugging Face)
+
+[Click here to watch the video](https://drive.google.com/file/d/1ZCHLh8mgSVtu7gixvjWLL8dQbCD_NulN/view?usp=sharing)
+
+## Project Demo of Automated Web Scrapping (Naukri/Indeed/Foundit)
+
+[Click here to watch the video](https://drive.google.com/file/d/1g0l4dPZ1qKa4f2WQUxxP9AQuz5UjOM0T/view?usp=sharing)
