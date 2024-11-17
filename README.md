@@ -101,7 +101,7 @@ The project focuses on building an **AI-powered Job Relevance Analyzer** to brid
 
 ---
 
-## Project Demo of Jooble api hosted on cloud (Hugging Face)
+## Project Demo of Jooble api (Workaround for Linkedin) hosted on cloud (Hugging Face)
 
 [Click here to watch the video](https://drive.google.com/file/d/1ZCHLh8mgSVtu7gixvjWLL8dQbCD_NulN/view?usp=sharing)
 
