@@ -1,5 +1,8 @@
 # AI-Powered Job Relevance Analyzer  
 
+## Cloud link - https://huggingface.co/spaces/ShreyankshBtech22/Argonyx_Job-lens
+Note - There is a web scraping driver vulnerability caused by a version mismatch between the web driver used locally (Windows) and the one in the cloud environment (Hugging Face - Linux). (Currently everything is working on cloud, but we are unsure if the driver remains working for future use.)
+
 ## Presentation Overview  
 
 ### **Title & Problem Statement**  
